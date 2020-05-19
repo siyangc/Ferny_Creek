@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ferny_creek
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Ferny_Creek
+A property demonstration website using Vue.js
+>>>>>>> 21613a6bdc909b7a1ef5c8874465d53f9efb28dd
