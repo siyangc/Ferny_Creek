@@ -1,0 +1,39 @@
+{
+  "NavBar": {
+    "About" : "About Us",
+    "Service" : "Our Services",
+    "Team": "Our Team",
+    "Contact": "Contact Us",
+    "Language": "Language",
+    "Lang":"中文"
+  },
+  "About": {
+    "Title" : "About Us",
+    "Content" : "The Ferny Creek villa offers many options for your residential conference or destination wedding - the views, vistas and experiences available to your guests are ten fold. Discover the true meaning of relaxation in a region known for its celebration of the senses, the villa offers pure indulgence for your conference delegates or wedding guests, less than an easy hours drive from the heart of Melbourne."
+  },
+  "Service": {
+    "Title" : "Our Services",
+    "Wedding" : "Wedding",
+    "WeddingContent" : "The best place for wedding with beatiful views. Peach and Pumpkin can be your witnesses!",
+    "Event": "Event",
+    "EventContent": "Want to celebrate your important moment with your family and friend? Come here and then just enjoy!",
+    "Conference": "Conference",
+    "ConferenceContent": "Conference is always boring? You need fresh air to brainstorm!",
+    "Accommodation":"Accommodation",
+    "Catering": "Catering",
+    "Photography":"Photography",
+    "Live Music":"Live Music"    
+  },
+  "Team":{
+    "Title": "Our Team"
+  },
+  "Contact":{
+    "Title": "Contact Us",
+    "L-Title": "Contact Information",
+    "Address": "Revenue address: 11 Ham Road, Ferny Creek, VIC 3768",
+    "Office": "Head office: Suite 4, level 1, 14-16 Prospect St, Box Hill, VIC 3128",
+    "Phone":"Phone: (03) 99397658",
+    "Email":"Email: zenelement@gmail.com",
+    "R-Title":"Leave Us A Message"
+  }
+}

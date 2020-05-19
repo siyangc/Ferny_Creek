@@ -1,0 +1,41 @@
+{
+    "NavBar": {
+      "About" : "介绍",
+      "Service" : "服务",
+      "Team": "团队",
+      "Contact": "联系",
+      "Language": "语言",
+      "Lang":"English"
+    },
+
+    "About": {
+        "Title": "介绍",
+        "Content":"Ferny Creek 庄园是适合举办各种活动的最佳地点，独特的自然风光以及园内精美丰富的设施足以满足您在活动或休息时的需求。距离墨尔本市中心仅半小时的车程即可呼吸到新鲜的空气以及远离喧嚣的宁静片刻。"
+    },
+
+    "Service": {
+        "Title" : "服务",
+        "Wedding" : "婚礼",
+        "WeddingContent" : "举办婚礼的最佳地点，更有专业团队提供一站式服务",
+        "Event": "生日",
+        "EventContent": "生日聚会的最佳场所，家人朋友欢聚的不二之选",
+        "Conference": "会议",
+        "ConferenceContent": "适合会议召开，公司团建，合同签署",
+        "Accommodation":"居住",
+        "Catering": "餐饮",
+        "Photography":"摄影",
+        "Live Music":"乐队"    
+      },
+      "Team":{
+        "Title": "团队"
+      },
+      "Contact":{
+        "Title": "联系",
+        "L-Title": "联系方式",
+        "Address": "房屋地址: 11 Ham Road, Ferny Creek, VIC 3768",
+        "Office": "办公地址: Suite 4, level 1, 14-16 Prospect St, Box Hill, VIC 3128",
+        "Phone":"电话: (03) 99397658",
+        "Email":"邮件: zenelement@gmail.com",
+        "R-Title":"请咨询"
+      }
+}
